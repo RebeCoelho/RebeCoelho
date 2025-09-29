@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I’m Rebeca 👋 
 
-<!--
-**RebeCoelho/RebeCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Data Analyst | BI & Automation  
+🎓 Engenheira de Controle e Automação  
+📊 Experiência com Power BI, SQL, Python e Excel Avançado  
+🚀 Interesse em Data Science, ETL e Cloud Analytics  
+✨ Apaixonada por transformar dados em decisões inteligentes
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block"> 
+  <a href="www.linkedin.com/in/rebeca-dos-santos-coelho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://sites.google.com/view/portfliorebecacoelho?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:rebecoelho[at]gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
